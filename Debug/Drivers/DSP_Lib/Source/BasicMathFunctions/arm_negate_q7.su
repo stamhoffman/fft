@@ -1,0 +1,2 @@
+arm_math.h:730:28:__QSUB8	64	static,ignoring_inline_asm
+arm_negate_q7.c:65:6:arm_negate_q7	40	static

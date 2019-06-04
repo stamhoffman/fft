@@ -1,0 +1,2 @@
+arm_math.h:994:28:__SMUAD	16	static
+arm_cmplx_mag_squared_q15.c:64:6:arm_cmplx_mag_squared_q15	64	static

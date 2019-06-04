@@ -1,0 +1,3 @@
+arm_math.h:964:28:__SMLALD	32	static
+arm_math.h:979:28:__SMLALDX	32	static
+arm_conv_partial_q15.c:71:12:arm_conv_partial_q15	240	static,ignoring_inline_asm

@@ -1,0 +1,2 @@
+arm_math.h:748:28:__QADD16	40	static,ignoring_inline_asm
+arm_pid_init_q15.c:61:6:arm_pid_init_q15	16	static

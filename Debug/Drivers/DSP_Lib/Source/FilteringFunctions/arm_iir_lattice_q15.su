@@ -1,0 +1,2 @@
+arm_math.h:964:28:__SMLALD	32	static
+arm_iir_lattice_q15.c:71:6:arm_iir_lattice_q15	224	static,ignoring_inline_asm

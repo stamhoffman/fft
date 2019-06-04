@@ -1,0 +1,9 @@
+arm_math.h:877:28:__SMUSDX	16	static
+arm_math.h:888:28:__SMUADX	16	static
+arm_math.h:922:28:__SMLAD	24	static
+arm_math.h:936:28:__SMLADX	24	static
+arm_math.h:950:28:__SMLSDX	24	static
+arm_math.h:1006:28:__SMUSD	16	static
+arm_rfft_q15.c:87:6:arm_rfft_q15	48	static
+arm_rfft_q15.c:140:6:arm_split_rfft_q15	64	static
+arm_rfft_q15.c:306:6:arm_split_rifft_q15	64	static

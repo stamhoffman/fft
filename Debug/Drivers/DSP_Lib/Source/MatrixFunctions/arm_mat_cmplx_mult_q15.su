@@ -1,0 +1,3 @@
+arm_math.h:888:28:__SMUADX	16	static
+arm_math.h:1006:28:__SMUSD	16	static
+arm_mat_cmplx_mult_q15.c:88:12:arm_mat_cmplx_mult_q15	120	static,ignoring_inline_asm

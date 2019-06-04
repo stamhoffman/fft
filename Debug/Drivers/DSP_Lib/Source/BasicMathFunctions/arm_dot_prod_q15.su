@@ -1,0 +1,2 @@
+arm_math.h:964:28:__SMLALD	32	static
+arm_dot_prod_q15.c:69:6:arm_dot_prod_q15	48	static

@@ -1,0 +1,2 @@
+arm_math.h:781:28:__QSUB16	40	static,ignoring_inline_asm
+arm_abs_q15.c:65:6:arm_abs_q15	48	static

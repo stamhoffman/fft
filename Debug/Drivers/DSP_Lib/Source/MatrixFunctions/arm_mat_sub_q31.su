@@ -1,0 +1,3 @@
+arm_math.h:486:25:clip_q63_to_q31	16	static
+arm_math.h:911:27:__QSUB	24	static
+arm_mat_sub_q31.c:67:12:arm_mat_sub_q31	72	static

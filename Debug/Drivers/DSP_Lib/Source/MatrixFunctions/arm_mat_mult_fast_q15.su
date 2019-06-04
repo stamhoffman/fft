@@ -1,0 +1,2 @@
+arm_math.h:922:28:__SMLAD	24	static
+arm_mat_mult_fast_q15.c:85:12:arm_mat_mult_fast_q15	88	static

@@ -1,0 +1,2 @@
+arm_math.h:1018:28:__SXTB16	16	static
+arm_q7_to_q15.c:73:6:arm_q7_to_q15	64	static

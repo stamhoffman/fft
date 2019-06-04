@@ -1,0 +1,4 @@
+arm_math.h:888:28:__SMUADX	16	static
+arm_math.h:922:28:__SMLAD	24	static
+arm_math.h:994:28:__SMUAD	16	static
+arm_biquad_cascade_df1_fast_q15.c:75:6:arm_biquad_cascade_df1_fast_q15	120	static,ignoring_inline_asm

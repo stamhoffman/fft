@@ -1,0 +1,4 @@
+arm_math.h:486:25:clip_q63_to_q31	16	static
+arm_math.h:900:27:__QADD	24	static
+arm_math.h:911:27:__QSUB	24	static
+arm_iir_lattice_q31.c:70:6:arm_iir_lattice_q31	104	static

@@ -1,0 +1,3 @@
+arm_math.h:922:28:__SMLAD	24	static
+arm_math.h:936:28:__SMLADX	24	static
+arm_conv_fast_opt_q15.c:83:6:arm_conv_fast_opt_q15	152	static,ignoring_inline_asm

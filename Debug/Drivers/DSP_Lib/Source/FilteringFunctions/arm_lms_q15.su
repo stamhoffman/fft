@@ -1,0 +1,2 @@
+arm_math.h:964:28:__SMLALD	32	static
+arm_lms_q15.c:74:6:arm_lms_q15	152	static,ignoring_inline_asm

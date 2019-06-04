@@ -1,0 +1,9 @@
+arm_math.h:765:28:__SHADD16	24	static
+arm_math.h:781:28:__QSUB16	40	static,ignoring_inline_asm
+arm_math.h:877:28:__SMUSDX	16	static
+arm_math.h:888:28:__SMUADX	16	static
+arm_math.h:994:28:__SMUAD	16	static
+arm_math.h:1006:28:__SMUSD	16	static
+arm_cfft_q15.c:90:6:arm_cfft_q15	32	static
+arm_cfft_q15.c:147:6:arm_cfft_radix4by2_q15	80	static
+arm_cfft_q15.c:254:6:arm_cfft_radix4by2_inverse_q15	80	static
